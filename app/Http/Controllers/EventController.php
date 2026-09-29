@@ -6,6 +6,11 @@ use App\Models\Event;
 
 class EventController extends Controller
 {
+  /*  public function new()
+    {
+        $evens = 
+    }
+*/
     public function index()
     {
         $events = Event::orderBy('event_date')->get();

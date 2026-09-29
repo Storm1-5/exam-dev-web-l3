@@ -7,6 +7,7 @@
         <div>
             <h1>Événements</h1>
             <p class="text-secondary mb-0">Les prochains événements du campus.</p>
+            <a href= "events/create">Créer un événement</a>
         </div>
     </div>
 
